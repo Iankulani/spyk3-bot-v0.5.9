@@ -190,3 +190,6 @@ cd spyk3-bot-v0.5.9
 python spyk3-bot-v0.5.9.py
 ```
   
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/spyk3-bot-v0.5.9&type=Date)](https://star-history.com/#Iankulani/spyk3-bot-v0.5.9&Date)
