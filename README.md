@@ -15,7 +15,7 @@ One of the standout features of Spyk3 Bot v0.5.9 is its ability to operate acros
 
 # Supported Platforms
 
-Discord – Ideal for community-based operations, team collaboration, and real-time command execution.
+* Discord – Ideal for community-based operations, team collaboration, and real-time command execution.
 
 * WhatsApp – Enables direct and simple communication for quick command access and alerts.
 
@@ -27,7 +27,7 @@ Discord – Ideal for community-based operations, team collaboration, and real-t
 
 Through these platforms, users can issue commands, receive feedback, monitor activities, and execute modules without needing direct access to the host system. This distributed access model enhances efficiency and allows for remote cybersecurity management.
 
-Modular Architecture
+# Modular Architecture
 
 Spyk3 Bot is built on a modular framework, which means its functionalities are divided into independent modules. Each module is designed to perform specific cybersecurity tasks, and users can enable or disable them based on their needs.
 
